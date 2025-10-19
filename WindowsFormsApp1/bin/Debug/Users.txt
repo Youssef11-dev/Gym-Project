@@ -1,0 +1,4 @@
+User1#1234#Manager#Youssef
+User2#1234#Sales#Ahmed
+User3#1234#Reception#Ahmed
+User4#1234#Manager#Ahmed
